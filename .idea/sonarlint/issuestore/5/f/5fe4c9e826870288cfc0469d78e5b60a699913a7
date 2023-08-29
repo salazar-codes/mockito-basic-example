@@ -1,0 +1,13 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖåÖáûÿÿÿÿ
+L
+java:S1611"1Remove the parentheses around the "srt" parameter(ëÓÊ€ÿÿÿÿÿ
+o
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(”ÿà‘
+L
+java:S1611"6Remove the parentheses around the "allTodos" parameter(”ÿà‘
+M
+java:S1611"2Remove the parentheses around the "todo" parameter(‰ÅçËúÿÿÿÿ
+\
+java:S1854"ARemove this useless assignment to local variable "filteredTodos".(ÖåÖáûÿÿÿÿ
